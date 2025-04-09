@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PRAKTIKUM1</string>
+    <string name="roll">Roll</string>
+    <string name="double_message">Selamat, anda dapat dadu double!</string>
+    <string name="bad_message">Anda belum beruntung!</string>
+
+</resources>
